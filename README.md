@@ -4,6 +4,7 @@
 
    - 🌱 I'm Livin in Colombia
    - 🤼‍♂️ I'm Wrestler
+   - 🎵 I'm Beat Maker
 
 
 <p align="center">
